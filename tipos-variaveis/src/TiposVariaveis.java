@@ -4,7 +4,7 @@ public class TiposVariaveis {
         // tipos primitivos
         //classe String que representa texto na aplicação
 
-        String meuNome = "MATHEUS";
+        /* String meuNome = "MATHEUS";
         short numeroCurto = 1;
         int numeroNormal = numeroCurto;
         short numeroCurto2 = (short) numeroNormal;
@@ -16,6 +16,6 @@ public class TiposVariaveis {
 
         System.out.println(numero);
 
-        final double VALOR_DE_PI = 3.14;       
+        final double VALOR_DE_PI = 3.14; */       
     }
 }
