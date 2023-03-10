@@ -16,8 +16,7 @@ public class AboutMe {
         int idade = scanner.nextInt();
         
         System.out.println("Digite sua altura");
-        double altura = scanner.nextDouble();
-        sss
+        double altura = scanner.nextDouble();        
 
         
         //imprimindo os dados obtidos pelo usuario
